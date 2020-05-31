@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">3ea181b2db855010cb90e4da4b961973</embedded_screen>
-        <form display_value="Referrals Form Screen">f6a181b2db855010cb90e4da4b961972</form>
+        <form display_value="Referrals">f6a181b2db855010cb90e4da4b961972</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

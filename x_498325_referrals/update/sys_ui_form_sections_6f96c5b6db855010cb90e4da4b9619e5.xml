@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6f96c5b6db855010cb90e4da4b9619e5" sys_domain="global" table="x_498325_referrals_referrals" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb96c5b6db855010cb90e4da4b9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_498325_referrals_referrals" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6f96c5b6db855010cb90e4da4b9619e5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">7ea3c536db855010cb90e4da4b96190a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:24:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f796c5b6db855010cb90e4da4b9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_498325_referrals_referrals" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6f96c5b6db855010cb90e4da4b9619e5</sys_ui_form>
+            <sys_ui_section caption="Referral Details" display_value="Referral Details" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">a796c5b6db855010cb90e4da4b9619e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:24:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f79609b6db855010cb90e4da4b961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_498325_referrals_referrals" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6f96c5b6db855010cb90e4da4b9619e5</sys_ui_form>
+            <sys_ui_section caption="Customer Details" display_value="Customer Details" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6396c5b6db855010cb90e4da4b9619e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:24:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb9609b6db855010cb90e4da4b961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_498325_referrals_referrals" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6f96c5b6db855010cb90e4da4b9619e5</sys_ui_form>
+            <sys_ui_section caption="Customer Primary Contact" display_value="Customer Primary Contact" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">2f96c5b6db855010cb90e4da4b9619e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:24:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11f8c13adb855010cb90e4da4b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_498325_referrals_referrals" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">6f96c5b6db855010cb90e4da4b9619e5</sys_ui_form>
+            <sys_ui_section caption="Form flow" display_value="Form flow" name="x_498325_referrals_referrals" sys_domain="global" view="Default view">99f8c13adb855010cb90e4da4b961940</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:34:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_498325_referrals_referrals</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f96c5b6db855010cb90e4da4b9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_498325_referrals_referrals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6f96c5b6db855010cb90e4da4b9619e5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 18:24:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
