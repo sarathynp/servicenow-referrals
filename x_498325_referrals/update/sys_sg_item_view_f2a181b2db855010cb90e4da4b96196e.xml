@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Referrals Referrals">faa181b2db855010cb90e4da4b96196c</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"state","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","Font":{"Weight":"semibold","Size":13},"TextColor":"#293e40","Width":100,"Height":21,"Text":"","Type":"Text"}],"Distribution":"Auto","Orientation":"Vertical","Alignment":"Left","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"number","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Text":"","Type":"Text"}],"Distribution":"Auto","Orientation":"Vertical","Alignment":"Right","Type":"ViewGroup"}],"Distribution":"Equal","Orientation":"Horizontal","Alignment":"Stretch","Type":"ViewGroup"},{"CellId":"short_description","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","Text":"","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Text":"${opened_by}","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Text":"","Type":"Text"}],"Distribution":"Auto","Orientation":"Horizontal","Alignment":"Center","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Text":"${priority}","Margin":{"Right":8},"Type":"Text"},{"CellId":"priority","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Text":"","Type":"Text"}],"Distribution":"Auto","Orientation":"Horizontal","Alignment":"Center","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Orientation":"Vertical","Alignment":"Left","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Referrals List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:02:36</sys_created_on>
+        <sys_id>f2a181b2db855010cb90e4da4b96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Referrals List Screen Item View</sys_name>
+        <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+        <sys_update_name>sys_sg_item_view_f2a181b2db855010cb90e4da4b96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:02:36</sys_updated_on>
+        <table>x_498325_referrals_referrals</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2a181b2db855010cb90e4da4b96196e"/>
+</record_update>

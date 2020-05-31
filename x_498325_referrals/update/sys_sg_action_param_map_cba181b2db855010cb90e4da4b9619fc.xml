@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Referrals)">c3a181b2db855010cb90e4da4b9619e8</button>
+        <item_parameter display_value="Referrals cmdb_ci">87a181b2db855010cb90e4da4b9619e4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:02:37</sys_created_on>
+        <sys_id>cba181b2db855010cb90e4da4b9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>87a181b2db855010cb90e4da4b9619e4</sys_name>
+        <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_cba181b2db855010cb90e4da4b9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:02:37</sys_updated_on>
+        <ui_parameter display_value="Configuration item">03a181b2db855010cb90e4da4b9619f6</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

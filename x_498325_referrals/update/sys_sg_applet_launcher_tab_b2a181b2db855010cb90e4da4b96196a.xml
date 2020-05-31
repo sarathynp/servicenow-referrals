@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Referrals">faa181b2db855010cb90e4da4b961968</applet_launcher>
+        <icon display_value="Home Referrals">f2a181b2db855010cb90e4da4b96196a</icon>
+        <label>Referrals</label>
+        <roles>admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:02:36</sys_created_on>
+        <sys_id>b2a181b2db855010cb90e4da4b96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Referrals</sys_name>
+        <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_b2a181b2db855010cb90e4da4b96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:02:36</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

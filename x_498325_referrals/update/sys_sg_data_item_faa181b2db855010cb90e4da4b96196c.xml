@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Referrals Referrals</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:02:36</sys_created_on>
+        <sys_id>faa181b2db855010cb90e4da4b96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Referrals Referrals</sys_name>
+        <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+        <sys_update_name>sys_sg_data_item_faa181b2db855010cb90e4da4b96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:02:36</sys_updated_on>
+        <table>x_498325_referrals_referrals</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=faa181b2db855010cb90e4da4b96196c"/>
+</record_update>

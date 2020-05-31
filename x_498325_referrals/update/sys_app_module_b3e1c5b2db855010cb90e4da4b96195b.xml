@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Referrals ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x/498325/workspace/referrals</query>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:03:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3e1c5b2db855010cb90e4da4b96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Referrals ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Referrals" source="x_498325_referrals">92443c7adb455010cb90e4da4b961911</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referrals">92443c7adb455010cb90e4da4b961911</sys_scope>
+        <sys_update_name>sys_app_module_b3e1c5b2db855010cb90e4da4b96195b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:03:46</sys_updated_on>
+        <timeline_page/>
+        <title>Referrals ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Referrals</window_name>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Referrals" max_length="40" name="x_498325_referrals_referrals" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Customer address 1" max_length="40" name="customer_address_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer address 2" max_length="40" name="customer_address_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer city" max_length="40" name="customer_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer contact email" max_length="40" name="customer_contact_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer contact name" max_length="40" name="customer_contact_name" type="string"/>
+        <element label="Customer contact phone" max_length="40" name="customer_contact_phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer country" max_length="40" name="customer_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer name" max_length="40" name="customer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer state" max_length="40" name="customer_state" type="string"/>
+        <element attributes="encode_utf8=false" label="Referral assigned to" max_length="32" name="referral_assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Referral long desc" max_length="1600" name="referral_long_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Referral priority" max_length="40" name="referral_priority" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Referral short desc" max_length="160" name="referral_short_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Referral status" max_length="40" name="referral_status" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Referrer email" max_length="40" name="referrer_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Referrer name" max_length="40" name="referrer_name" type="string"/>
+        <element label="Referrer phone no" max_length="40" name="referrer_phone_no" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Employee" value="employee"/>
+                <element inactive_on_update="false" label="External refernce" value="external"/>
+            </choice>
+        </element>
+    </element>
+</database>
